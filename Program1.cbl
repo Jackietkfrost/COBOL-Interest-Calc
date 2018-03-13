@@ -14,12 +14,9 @@
       *end program Program1.
        IDENTIFICATION DIVISION.
        program-id. Program1.
-      **********************************
-      *NAME:       ALEK MARCANO MORALES*
-      *STUDENT ID: S00928916           *
-      *CLASS:      COSC 235            *
-      *PROFESSOR:  PEDRO MALDONADO     *
-      **********************************
+      *****************************
+      *AUTHOR:     JACKIE MARCANO *
+      *****************************
        data division.
        working-storage section.
        01  USER-SELECTION  PIC X VALUE SPACE.
